@@ -1,4 +1,4 @@
-# Generate Video
+# Generate Animation
 
 Create animation from YOLO output.
 
